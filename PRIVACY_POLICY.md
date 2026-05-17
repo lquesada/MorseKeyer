@@ -1,6 +1,6 @@
 # Privacy Policy for MorseKeyer
 
-The **MorseKeyer** app (the "App") is provided by **Luis Quesada Torres** ("the Author") as an Open Source application. This service is provided at no cost and is intended for use as is.
+The **MorseKeyer** app (the "App") is provided by **Luis Quesada Torres** ("the Author"). This service is provided at no cost and is intended for use as is.
 
 ### 1. No Data Collection
 The App is designed to be privacy-respecting. 
